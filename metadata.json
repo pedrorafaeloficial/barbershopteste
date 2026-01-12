@@ -1,0 +1,7 @@
+{
+  "name": "MrSanntana Barber CRM",
+  "description": "A luxury barber shop management system featuring client tracking, appointment scheduling, and automated reminders using Gemini AI for personalized communication.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
