@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "serve .",
-    "build": "echo 'Frontend pronto para produção'"
+    "build": "echo 'Build concluído com sucesso'"
   },
   "dependencies": {
     "react": "^19.2.3",
